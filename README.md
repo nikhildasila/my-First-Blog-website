@@ -1,2 +1,2 @@
 # CMS
-Fully functioning cms with admin dashboard (Blog)
+Fully functioning content management system
